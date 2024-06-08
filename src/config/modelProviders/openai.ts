@@ -132,9 +132,9 @@ const OpenAI: ModelProviderCard = {
       vision: true,
     },
     {
-      displayName: 'ChatGPT Plus',
-      vision: true,
+      displayName: 'ChatGPT-4',
       enabled: true,
+      vision: true,
       functionCall: true,
       files: true,
       id: 'gpt-4-all',
