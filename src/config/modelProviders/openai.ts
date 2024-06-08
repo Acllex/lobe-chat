@@ -134,11 +134,11 @@ const OpenAI: ModelProviderCard = {
     {
       displayName: 'ChatGPT-4',
       enabled: true,
-      vision: true,
-      functionCall: true,
       files: true,
+      functionCall: true,
       id: 'gpt-4-all',
       tokens: 128000,
+      vision: true,
     },
   ],
   checkModel: 'gpt-3.5-turbo',
