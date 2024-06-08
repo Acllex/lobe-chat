@@ -137,7 +137,7 @@ const OpenAI: ModelProviderCard = {
       files: true,
       functionCall: true,
       id: 'gpt-4-all',
-      tokens: 128000,
+      tokens: 128_000,
       vision: true,
     },
   ],
