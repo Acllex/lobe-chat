@@ -72,7 +72,7 @@ const Google: ModelProviderCard = {
     {
       description: 'Fast and versatile multimodal model for scaling across diverse tasks',
       displayName: 'Gemini 1.5 Flash',
-      enabled: true,
+      //  enabled: true,
       functionCall: true,
       id: 'gemini-1.5-flash-latest',
       maxOutput: 8192,
@@ -82,7 +82,7 @@ const Google: ModelProviderCard = {
     {
       description: 'Mid-size multimodal model that supports up to 1 million tokens',
       displayName: 'Gemini 1.5 Pro',
-      enabled: true,
+      //  enabled: true,
       functionCall: true,
       id: 'gemini-1.5-pro-latest',
       maxOutput: 8192,
